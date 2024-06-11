@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- I am a tech enthusiast<br>- QA<br>- Musician by hobby :guitar: <br>- Trilingual - Brazilian Portuguese , English , Spanish </p>
+<p align="left">- I am a tech enthusiast<br>- QA<br>- Musician by hobby :guitar: <br>- Trilingual - Portuguese , English , Spanish </p>
 
 ###
 
