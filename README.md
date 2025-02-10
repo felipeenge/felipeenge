@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- QA Engineer <br>- Trilingual - Portuguese , English , Spanish <br>- Musician and photographer by hobby :guitar: :camera_flash: <br>- I enjoy traveling and discovering new places :airplane: :earth_americas: | Instagram @felipe.abroad <br> </p>
+<p align="left">- QA Engineer <br>- Trilingual - Portuguese , English , Spanish <br>- Musician and photographer by hobby :guitar: :camera_flash: <br>- I enjoy traveling and discovering new places :airplane: :earth_americas: <br> </p>
 
 ###
 
